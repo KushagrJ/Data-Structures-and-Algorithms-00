@@ -1,5 +1,15 @@
 /* Trivia - 00
 
- *
+ * A data structure is a way to store and organize data in order to facilitate
+   access and modifications.
+ * Using the appropriate data structure(s) is an important part of algorithm
+   design.
+
+ * In the context of computer science and mathematics, in almost all cases, an
+   algorithm is a well-defined computational procedure that takes some input and
+   produces some output for a well-defined computational problem in a finite
+   amount of time.
+ * More generally, an algorithm is a finite sequence of well-defined steps to be
+   followed in order to accomplish a given task.
 
  * End of Trivia */
