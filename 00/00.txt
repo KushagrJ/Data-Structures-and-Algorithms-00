@@ -32,4 +32,38 @@
  * More generally, an algorithm is a finite sequence of well-defined steps to be
    followed in order to accomplish a given task.
 
+ * An instance of a problem consists of the input (satisfying whatever
+   constraints are imposed in the problem statement) needed to compute a
+   solution to the problem.
+
+ * An algorithm for a computational problem is correct if, for every problem
+   instance provided as input, it halts, i.e. finishes its computing in finite
+   time, and outputs the correct solution to the problem instance.
+ * A correct algorithm solves the given computational problem.
+ * An incorrect algorithm might not halt at all on some input instances, or it
+   might halt with an incorrect answer.
+
+
+ * The sorting problem :-
+
+   Input: A sequence of n numbers a1, a2, ... , an.
+
+   Output: A permutation (reordering) a1', a2', ... , an' of the input sequence
+   such that a1' <= a2' <= ... <= an'.
+
+ * Because many programs use it as an intermediate step, sorting is a
+   fundamental operation in computer science.
+   As a result, there are a large number of good sorting algorithms available.
+ * Which sorting algorithm is the best for a given application depends on the
+   number of items to be sorted, the extent to which the items are already
+   somewhat sorted, possible restrictions on the item values, etc.
+
+
+ * Resume from Exercises for Section 1.1
+   [Solve the short exercises in the trivial comments]
+   [Make new folders for the long exercises]
+   [Main Book - Introduction to Algorithms]
+   [Supplementary Book - Data Structures and Algorithm Analysis in Java]
+   [Extra Material - GeeksForGeeks]
+
  * End of Trivia */
