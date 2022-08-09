@@ -5,6 +5,26 @@
  * Using the appropriate data structure(s) is an important part of algorithm
    design.
 
+ * There is a difference between a data type and a data structure.
+   In the context of C, see https://stackoverflow.com/a/29973810.
+
+ * An abstract data type (ADT) is simply the description of a data type /
+   data structure.
+   But, once that data type / data structure has been implemented in a language,
+   it no longer remains an ADT, and rather becomes concrete.
+   So, for eg., the idea of an integer data type is an ADT, but the data type
+   int is not an ADT and is rather a fundamental/primitive data type.
+   Similarly, the idea of a sequential data structure is an ADT, but the data
+   structures array and linked list are not ADTs.
+ * So, the definition of an ADT which says that an ADT is a data type /
+   data structure whose implementation details are hidden from the user
+   (i.e the user of that data type / data structure) is not fully correct.
+ * Simply put, a formal abstract description of a data type's / data structrue's
+   properties and of the operations that can be performed on the it is called an
+   abstract data type.
+   This description shouldn't be tied to any particular implementation or
+   programming language.
+
  * In the context of computer science and mathematics, in almost all cases, an
    algorithm is a well-defined computational procedure that takes some input and
    produces some output for a well-defined computational problem in a finite
