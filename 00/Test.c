@@ -59,11 +59,4 @@
    somewhat sorted, possible restrictions on the item values, etc.
 
 
- * Resume from Exercises for Section 1.1
-   [Solve the short exercises in the trivial comments]
-   [Make new folders for the long exercises]
-   [Main Book - Introduction to Algorithms]
-   [Supplementary Book - Data Structures and Algorithm Analysis in Java]
-   [Extra Material - GeeksForGeeks]
-
  * End of Trivia */
